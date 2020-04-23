@@ -1,11 +1,16 @@
+![Ground Hogs Magical Mystery Bannerthing](https://github.com/ground-hogs/ground-hogs.github.io/raw/master/assets/img/earthy-thing.png)
+
 # Castella
 
 ## Introduction
+
 Parsing JSX into JS is only half of the fun of the dev experience for those who use JSX. The other half is about being able to modularize with it. 
 
 [Gasket][1] Brings you the 1st part. `Castella` enables the 2nd. 
 
 With Castella you get render functions, as well as the ability to render your DOM thing to a string. 
+
+A Castella is a kind of jiggly cake that's super amusing to watch.
 
 ## Usage
 
@@ -52,3 +57,6 @@ Since we have literally no idea wether this will work on older nodejs versions, 
 We could totally use some tests! It would be fairly cool to have tests in place. You know, so we can be sure this is usable with any degree of certainty. 
 
 Any suggestions are welcome!
+
+[1]: https://github.com/ground-hogs/gasket
+[2]: https://github.com/snabbdom/snabbdom
